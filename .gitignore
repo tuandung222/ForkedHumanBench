@@ -1,0 +1,6 @@
+# I do not include .pt, .pth
+
+
+*.pt
+*.pth
+
